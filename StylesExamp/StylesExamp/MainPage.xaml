@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="StylesExamp.MainPage">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <StackLayout>
+        
+        
+        
+        
+        <!--<Label Text="Enter UserName" Style="{StaticResource lblStyle}"/>
+        <Entry x:Name="etUserName" Placeholder="Enter UserName" Style="{StaticResource entryStyle}"/>
+
+        <Label Text="Enter Password" Style="{StaticResource lblStyle}"/>
+
+        <Entry x:Name="etPassword" Placeholder="Enter Password"  Style="{StaticResource entryStyle}"/>
+
+        <Label Text="Registration" Style="{StaticResource lblStyle}" HorizontalOptions="CenterAndExpand"/>-->
+
+
+        <TableView Intent="Settings">
+            <TableRoot>
+                <TableSection Title="Connected Devices">
+                    <TextCell Text="BlueTooth" Detail="Not visible to other Devices"/>
+                    <TextCell Text="Cast" Detail="Not connected"/>
+                    <EntryCell x:Name="etUserName" Placeholder="Enter userName" Label="Please Enter userName"/>
+                    <SwitchCell Text="Swithc on Wifi" On="True"/>
+                </TableSection>
+
+                <TableSection Title="Security">
+                    <TextCell Text="BlueTooth" Detail="Not visible to other Devices"/>
+                    <TextCell Text="Cast" Detail="Not connected"/>
+                    <EntryCell  Placeholder="Enter userName" Label="Please Enter userName"/>
+                    <SwitchCell Text="Swithc on Wifi" On="True"/>
+                </TableSection>
+
+                <TableSection Title="Display">
+                    <TextCell Text="BlueTooth" Detail="Not visible to other Devices"/>
+                    <TextCell Text="Cast" Detail="Not connected"/>
+                    <EntryCell  Placeholder="Enter userName" Label="Please Enter userName"/>
+                    <SwitchCell Text="Swithc on Wifi" On="True"/>
+                </TableSection>
+
+
+                <TableSection Title="Lock Screen">
+                    <TextCell Text="BlueTooth" Detail="Not visible to other Devices"/>
+                    <TextCell Text="Cast" Detail="Not connected"/>
+                    <EntryCell  Placeholder="Enter userName" Label="Please Enter userName"/>
+                    <SwitchCell Text="Swithc on Wifi" On="True"/>
+                </TableSection>
+
+
+            </TableRoot>
+        </TableView>
+        
+
+        <Entry x:Name="etSearchName" Placeholder="Search name"/>
+
+        <ListView x:Name="lbxPersonsList">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding PersonName}" Detail="{Binding PersonAddress}"/>
+                    <!--<ImageCell Text="{Binding PersonName}" Detail="{Binding PersonAddress}" ImageSource="{Binding somrthing}"/>--> <!--//it comes image +title+details in One  list-->  
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+
+
+    </StackLayout>
+
+</ContentPage>
+    <!--//ViewCell inside the listview
+<ViewCell>
+    <StackLayout Orientation="Horizontal">
+        <Grid BackgroundColor="Maroon" Padding="10">
+            <Label Text="{Binding id}" TextColor="White"/>
+        </Grid>
+        <StackLayout Orientation="Vertical">
+            <Label Text="{Binding PersonName}" TextColor="Maroon"/>
+            <Label Text="{Binding PersonAddress}" TextColor="Purple"/>
+        </StackLayout>
+    </StackLayout>
+</ViewCell>-->
+        

@@ -1,0 +1,14 @@
+C:\Users\santosh\source\repos\StylesExamp\StylesExamp\StylesExamp\bin\Debug\netstandard2.0\StylesExamp.deps.json
+C:\Users\santosh\source\repos\StylesExamp\StylesExamp\StylesExamp\bin\Debug\netstandard2.0\StylesExamp.dll
+C:\Users\santosh\source\repos\StylesExamp\StylesExamp\StylesExamp\bin\Debug\netstandard2.0\ref\StylesExamp.dll
+C:\Users\santosh\source\repos\StylesExamp\StylesExamp\StylesExamp\bin\Debug\netstandard2.0\StylesExamp.pdb
+C:\Users\santosh\source\repos\StylesExamp\StylesExamp\StylesExamp\obj\Debug\netstandard2.0\StylesExamp.csprojAssemblyReference.cache
+C:\Users\santosh\source\repos\StylesExamp\StylesExamp\StylesExamp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\santosh\source\repos\StylesExamp\StylesExamp\StylesExamp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\santosh\source\repos\StylesExamp\StylesExamp\StylesExamp\obj\Debug\netstandard2.0\StylesExamp.AssemblyInfoInputs.cache
+C:\Users\santosh\source\repos\StylesExamp\StylesExamp\StylesExamp\obj\Debug\netstandard2.0\StylesExamp.AssemblyInfo.cs
+C:\Users\santosh\source\repos\StylesExamp\StylesExamp\StylesExamp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\santosh\source\repos\StylesExamp\StylesExamp\StylesExamp\obj\Debug\netstandard2.0\StylesExamp.dll
+C:\Users\santosh\source\repos\StylesExamp\StylesExamp\StylesExamp\obj\Debug\netstandard2.0\ref\StylesExamp.dll
+C:\Users\santosh\source\repos\StylesExamp\StylesExamp\StylesExamp\obj\Debug\netstandard2.0\StylesExamp.pdb
+C:\Users\santosh\source\repos\StylesExamp\StylesExamp\StylesExamp\obj\Debug\netstandard2.0\View\SampleView.xaml.g.cs

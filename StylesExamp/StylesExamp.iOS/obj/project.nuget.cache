@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kqe8GKDjARwNpajKhLGCfS275remPgy3qbQpK/NmeoR35GZAxQXfBqZBYJzXeHBxTSBXQwgj3PLg9P/8LDA5HA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\santosh\\source\\repos\\StylesExamp\\StylesExamp\\StylesExamp.iOS\\StylesExamp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\santosh\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\santosh\\.nuget\\packages\\xamarin.essentials\\1.2.0\\xamarin.essentials.1.2.0.nupkg.sha512",
+    "C:\\Users\\santosh\\.nuget\\packages\\xamarin.forms\\4.2.0.709249\\xamarin.forms.4.2.0.709249.nupkg.sha512"
+  ],
+  "logs": []
+}
